@@ -1,6 +1,13 @@
 {
     "users":[
         {
+            "id": 1,
+            "name":"polina",
+            "surname": "bondarenko",
+            "photo_url":"https://i.pinimg.com/236x/00/27/42/0027429a22a4c0ec3d6101a8af0f9cfd.jpg",
+            "balance": 100
+        },
+        {
             "id": 2,
             "name": "Timofey",
             "Surname": "Sarzhevsky",
