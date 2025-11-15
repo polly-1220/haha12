@@ -14,5 +14,31 @@
             "photo_url": "https://avatars.dzeninfra.ru/get-zen_brief/271828/pub_65239809ea856c397e3c3c4d_6523992ee16272519a961a09/scale_1200",
             "balance": 200
         }
+    ],
+    "products": [
+        {
+            "id": 2,
+            "title": "Perforator",
+            "img": "https://eweld.com.ua/image/cache/catalog/Bud%20postach/%D0%BC%D0%B0%D0%BA%D0%B8%D1%82%D0%B0-800x800.jpg",
+            "price": 20000000,
+            "description": "потужний",
+            "seller_id": 2
+        },
+        {
+            "id": 3,
+            "title": "Bogdan",
+            "img": "",
+            "price": "∞",
+            "description": "",
+            "seller_id": 4
+        },
+        {
+            "id": 3,
+            "title": "чипси з крабом",
+            "img": "https://hophey.ua/upload/iblock/b3a/p1a4ng18gfhfzf5ulhroklfb0ap3eug2/chipsy-lays-so-vkusom-kraba-60g.png",
+            "price": "∞",
+            "description": "",
+            "seller_id": 4
+        }
     ]
 }
