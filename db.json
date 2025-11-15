@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+            "id": 2,
+            "name": "Timofey",
+            "Surname": "Sarzhevsky",
+            "photo_url": "https://avatars.dzeninfra.ru/get-zen_brief/271828/pub_65239809ea856c397e3c3c4d_6523992ee16272519a961a09/scale_1200",
+            "balance": 200
+        }
     ]
 }
